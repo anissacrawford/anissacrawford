@@ -1,4 +1,4 @@
-👋 Hi, I’m @anissacrawford. 
+👋 Hi, I’m Anissa Crawford. 
 
 I recently finished the full-stack software engineering program at Prime Digital Academy.
 
